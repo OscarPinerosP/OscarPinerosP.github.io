@@ -1,9 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Conceptos Básico de Programación con Python
+summary: Aprende a programar en Python desde cero. En este curso te ayudaré a comprender los fundamentos y características esenciales del lenguaje de programación Python de una manera sencilla, fácil de comprender y sobre todo práctica.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Python
+date: '2024-01-20T00:00:00Z'
+author: Oscar Piñeros
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
