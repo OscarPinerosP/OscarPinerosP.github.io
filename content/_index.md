@@ -23,7 +23,7 @@ sections:
     id: blogs
     content:
       title: Blog
-      subtitle: 'Español'
+      subtitle: 'En Español'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
