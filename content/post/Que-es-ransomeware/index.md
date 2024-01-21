@@ -1,5 +1,5 @@
 ---
-title: Que es Ransomware ?
+title: Que es Ransomware y cómo protegerse?
 date: 2024-01-21
 commentable: true
 authors:
@@ -14,7 +14,7 @@ tags:
 
 El Ransomware es una amenaza de tipo malware en donde el objetivo es“secuestrar” la información alojada en cualquier equipo de computo que impide que el usuario tenga acceso a ella. Para que el usuario tenga acceso de nuevo a su información pide a cambio un rescate económico.
 
-![png](featured.png)
+![png](ransomware.png)
 
 En el momento en que la información está cifrada, el usuario obtiene un mensaje informativo indicándole que su información esta cifrada y pide una cantidad económica para desbloquear los datos, generalmente la forma de pago es a través de criptomonedas, ya que estos pagos son casi imposible de rastrearlos.
 
