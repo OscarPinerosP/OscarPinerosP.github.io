@@ -17,13 +17,13 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    org_name: 'OscarPinerosP'
+    description: 'Oscar Piñeros Professional info, Blog, Python, Data Science, Cybersecurity and more.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: 'G-4Q9T3DZ96H'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'GTM-5QTMGZ8M'
     microsoft_clarity: ''
   verification:
     google: ''
