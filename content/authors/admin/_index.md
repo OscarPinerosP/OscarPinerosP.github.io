@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Oscar Piñeros
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Oscar
+last_name: Piñeros
 
 # Status emoji
 status:
@@ -17,34 +17,41 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Cybersecurity Consultant - Researcher - Data Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+# organizations:
+#   - name: Stanford University
+#     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Passionate about technology, artificial intelligence, data science and cybersecurity. I have dedicated my career to fusing creativity with technical precision. My skills in artificial intelligence allow me to explore the power of machines to learn and adapt, while my focus on data science reveals valuable patterns in the sea of digital information. Cybersecurity is my constant commitment to ensuring that every technological advancement is backed by a strong defense against digital threats. I believe in a world where technology not only inspires us, but also protects us. This passion for technology constantly motivates me to research and tirelessly pursue excellence in AI, data science and cybersecurity. I am sure that with these aspects we can shape the digital future and build a safer and more innovative space.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Cybersecurity
+  - Project Management
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Artificial Intelligence
+      institution: Universidad Distrital Francisco Jose de Caldas
+      year: 2023
+    - course: Data Science
+      institution: Universidad Distrital Francisco Jose de Caldas
+      year: 2023
+    - course: Python and Pandas
+      institution: Kaggle
+      year: 2023
+    - course: Checkpoint Certified Security Administrator CCSA
+      institution: Checkpoint
+      year: 2022
+    - course: Systems Engineering and Project Management
+      institution: Universidad Piloto de Colombia
+      year: 1999
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,33 +60,33 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Cybersecurity
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 100
+        icon: lockclosed
+        icon_pack: hero
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Racquetball
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 80
+        icon: running
         icon_pack: fas
-      - name: Cats
+      - name: Drones - FPV
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
+        percent: 90
+        icon: fa-avianex
+        icon_pack: fab
       - name: Photography
         description: ''
         percent: 80
@@ -96,29 +103,33 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/FlakPin
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/OscarPinerosP
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    display:
+      header: true
+    link: https://www.linkedin.com/in/oscarpineros/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Passionate about technology, artificial intelligence, data science and cybersecurity. I have dedicated my career to fusing creativity with technical precision. My skills in artificial intelligence allow me to explore the power of machines to learn and adapt, while my focus on data science reveals valuable patterns in the sea of digital information. Cybersecurity is my constant commitment to ensuring that every technological advancement is backed by a strong defense against digital threats. I believe in a world where technology not only inspires us, but also protects us. This passion for technology constantly motivates me to research and tirelessly pursue excellence in AI, data science and cybersecurity. I am sure that with these aspects we can shape the digital future and build a safer and more innovative space.
 {style="text-align: justify;"}
