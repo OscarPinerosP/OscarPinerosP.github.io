@@ -5,8 +5,13 @@ icon: book
 icon_pack: fas
 type: book # Do not modify.
 toc: false
+cta:
+  url: courses/
+  label: Get Started
+  icon_pack: fas
+  icon: download
 cta_alt:
-  url: python/
+  url: courses/
   label: View Documentation
 tags:
 - Python
