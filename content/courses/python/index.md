@@ -8,6 +8,8 @@ toc: false
 cta_alt:
   url: python/
   label: View Documentation
+tags:
+- Python
 ---
 
 Welcome to the _Project Docs_ template!
