@@ -10,3 +10,4 @@ cta_alt:
   label: View Documentation
 ---
 
+Welcome to the _Project Docs_ template!
