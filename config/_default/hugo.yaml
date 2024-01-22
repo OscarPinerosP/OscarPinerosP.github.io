@@ -13,7 +13,7 @@ baseURL: 'https://oscarpinerosp.github.io/' # Website URL
 cascade:
   # Docs folder options
   - _target:
-      path: /courses/python/**
+      path: /courses/**
     editable: false
     show_breadcrumb: true
 
