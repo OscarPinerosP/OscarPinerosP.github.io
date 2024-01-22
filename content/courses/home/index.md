@@ -5,6 +5,9 @@ icon: book
 icon_pack: fas
 type: book # Do not modify.
 toc: false
+cta_alt:
+  url: python/
+  label: View Documentation
 ---
 
 Welcome to the _Project Docs_ template!
