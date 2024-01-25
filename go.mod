@@ -1,9 +1,8 @@
-module github.com/HugoBlox/theme-academic-cv
+module github.com/wowchemy/hugo-documentation-theme
 
 go 1.15
 
 require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.6
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231108141515-0478cf6921f9
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal v1.1.2
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7-0.20231108143325-448ed0e3bd2b
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231108143325-448ed0e3bd2b
 )

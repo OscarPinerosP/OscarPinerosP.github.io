@@ -15,15 +15,15 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Project
     local_business_type: ''
-    org_name: 'OscarPinerosP'
-    description: 'Oscar Piñeros Professional info, Blog, Python, Data Science, Cybersecurity and more.'
+    org_name: ''
+    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox Builder.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: 'G-4Q9T3DZ96H'
+    google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: 'GTM-5QTMGZ8M'
+    google_tag_manager: ''
     microsoft_clarity: ''
   verification:
     google: ''
@@ -41,8 +41,6 @@ header:
     show_search: true
     highlight_active_link: true
 
-# Site footer
-
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
@@ -57,7 +55,6 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
-  address_format: en-us
 
 # Site features
 
@@ -70,12 +67,13 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/wowchemy/hugo-documentation-theme'
     content_dir: content
     branch: main
-  avatar:
-    gravatar: false
-    shape: circle
+  feedback:
+    responses:
+      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
+      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
   comment:
     provider: ''
     disqus:
@@ -114,3 +112,4 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+

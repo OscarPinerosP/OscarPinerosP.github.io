@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oscar Piñeros P
+title: Oscar Piñeros
 
 # Name pronunciation (optional)
 name_pronunciation:
