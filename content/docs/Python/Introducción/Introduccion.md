@@ -20,5 +20,3 @@ Algunas características clave de Python incluyen:
 6. **Comunidad activa:** Python cuenta con una gran y activa comunidad de desarrolladores que contribuyen a la mejora continua del lenguaje y proporcionan una amplia gama de bibliotecas y recursos.
 
 Python se utiliza en una variedad de aplicaciones, como desarrollo web, análisis de datos, inteligencia artificial, aprendizaje automático, automatización de tareas, scripting, y más. Es considerado uno de los lenguajes de programación más populares y versátiles en la actualidad.
-
-[Python Notebook para estudiar](/static/downloads/cursoPython.ipynb)
