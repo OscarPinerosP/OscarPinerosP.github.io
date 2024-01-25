@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Hugo Blox Builder
+## Create slides in Markdown with Hugo Blox Builder
 
 [Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
 
