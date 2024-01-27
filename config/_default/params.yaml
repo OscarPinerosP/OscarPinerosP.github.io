@@ -18,7 +18,7 @@ marketing:
     site_type: ResearchOrganization
     local_business_type: 'ProfessionalService'
     org_name: 'Oscar Piñeros'
-    description: 'Oscar Piñeros Blog Cybersecurity IA Data Science Ciberseguridad Investigación Researcher.'
+    description: 'Oscar Piñeros Blog Cybersecurity IA Data Science Ciberseguridad Investigación Researcher Consultor Senior.'
     twitter: 'elonmusk'
   analytics:
     google_analytics: 'G-4Q9T3DZ96H'
@@ -72,8 +72,8 @@ features:
     branch: main
   feedback:
     responses:
-      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
-      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+      positive: 
+      negative: 
   comment:
     provider: ''
     disqus:
@@ -87,14 +87,14 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider:
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 
     api_key: ''
     zoom: 15
 
