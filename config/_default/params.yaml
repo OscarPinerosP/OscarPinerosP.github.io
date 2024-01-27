@@ -15,15 +15,15 @@ appearance:
 
 marketing:
   seo:
-    site_type: Project
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    site_type: ResearchOrganization
+    local_business_type: 'ProfessionalService'
+    org_name: 'Oscar Piñeros'
+    description: 'Oscar Piñeros Blog Cybersecurity IA Data Science Ciberseguridad Investigación Researcher.'
+    twitter: 'elonmusk'
   analytics:
-    google_analytics: ''
+    google_analytics: '424211326'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'GTM-5QTMGZ8M'
     microsoft_clarity: ''
   verification:
     google: 'VlKp8RLXgvUmWIccuKuIK_F8MPX6shF7rMwranR3ECA'
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/hugo-documentation-theme'
+    url: 'https://oscarpinerosp.github.io'
     content_dir: content
     branch: main
   feedback:
