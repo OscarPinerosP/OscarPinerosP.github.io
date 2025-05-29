@@ -113,6 +113,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
+        Tienes un proyecto de ciencia de datos, IA o Cibersegurdad, contactame.
         Do you have a Data Science, AI or Cybersecurity Project, contact me.
       # Contact (add or remove contact options as necessary)
       email: oscar.pineros@gmail.com
